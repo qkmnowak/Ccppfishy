@@ -1,0 +1,4 @@
+﻿  Source.c
+c:\users\kuba\source\repos\!programowanie w c\sygnały\sygnały\source.c(23): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\kuba\source\repos\!programowanie w c\sygnały\sygnały\source.c(311): warning C4716: 'filtruj': must return a value
+  Sygnały.vcxproj -> C:\Users\Kuba\source\repos\!PROGRAMOWANIE W C\Sygnały\Debug\Sygnały.exe
