@@ -1,0 +1,11 @@
+﻿  Bot.cpp
+C:\Users\quoth\Downloads\repos\repos\Labirynt\Labirynt\Bot.cpp(77,13): warning C4101: 'kodbledu': unreferenced local variable
+C:\Users\quoth\Downloads\repos\repos\Labirynt\Labirynt\Bot.cpp(82,14): warning C4101: 'kodbledu': unreferenced local variable
+  Gracz.cpp
+  Labirynt.cpp
+C:\Users\quoth\Downloads\repos\repos\Labirynt\Labirynt\Labirynt.cpp(96,13): warning C4101: 'kodbledu': unreferenced local variable
+C:\Users\quoth\Downloads\repos\repos\Labirynt\Labirynt\Labirynt.cpp(101,14): warning C4101: 'kodbledu': unreferenced local variable
+  Source.cpp
+C:\Users\quoth\Downloads\repos\repos\Labirynt\Labirynt\Source.cpp(6,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  Labirynt.vcxproj -> C:\Users\quoth\Downloads\repos\repos\Labirynt\Debug\Labirynt.exe
